@@ -1,0 +1,255 @@
+{
+  "project_info": {
+    "project_number": "446119608050",
+    "firebase_url": "https://wallpapers-fraz.firebaseio.com",
+    "project_id": "wallpapers-fraz",
+    "storage_bucket": "wallpapers-fraz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446119608050:android:67bc74ce72a3743f0a1a6b",
+        "android_client_info": {
+          "package_name": "com.al.picFilters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlZm_WQtofk3fdWwMZs3c8BwZhFSNpnQ"
+        },
+        {
+          "current_key": "AIzaSyBLEhiFbLcFLf736FhicYgTCyuUSo5i1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446119608050-icmhk171a695penipkn2t016j06k1e3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fz.frazilegradients"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446119608050:android:f2e6dfc1b54952370a1a6b",
+        "android_client_info": {
+          "package_name": "com.fz.Abstract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlZm_WQtofk3fdWwMZs3c8BwZhFSNpnQ"
+        },
+        {
+          "current_key": "AIzaSyBLEhiFbLcFLf736FhicYgTCyuUSo5i1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446119608050-icmhk171a695penipkn2t016j06k1e3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fz.frazilegradients"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446119608050:android:b5c5a11cab791f730a1a6b",
+        "android_client_info": {
+          "package_name": "com.fz.amoled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlZm_WQtofk3fdWwMZs3c8BwZhFSNpnQ"
+        },
+        {
+          "current_key": "AIzaSyBLEhiFbLcFLf736FhicYgTCyuUSo5i1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446119608050-icmhk171a695penipkn2t016j06k1e3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fz.frazilegradients"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3595684883769922~7376886208"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446119608050:android:caee76f1365fec4f0a1a6b",
+        "android_client_info": {
+          "package_name": "com.fz.foodwallfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlZm_WQtofk3fdWwMZs3c8BwZhFSNpnQ"
+        },
+        {
+          "current_key": "AIzaSyBLEhiFbLcFLf736FhicYgTCyuUSo5i1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446119608050-icmhk171a695penipkn2t016j06k1e3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fz.frazilegradients"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3595684883769922~4812413525"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446119608050:android:bd7169bbc1aa2dfa0a1a6b",
+        "android_client_info": {
+          "package_name": "com.fz.frazilegradients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446119608050-l2g8ko09ln3jqhdec45tctqdik3p4gdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fz.frazilegradients",
+            "certificate_hash": "9f85a1e438943d366e99f60d517477762d2be4a0"
+          }
+        },
+        {
+          "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlZm_WQtofk3fdWwMZs3c8BwZhFSNpnQ"
+        },
+        {
+          "current_key": "AIzaSyBLEhiFbLcFLf736FhicYgTCyuUSo5i1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446119608050-icmhk171a695penipkn2t016j06k1e3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fz.frazilegradients"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446119608050:android:3274c08532bb4caf0a1a6b",
+        "android_client_info": {
+          "package_name": "com.fz.wallfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFlZm_WQtofk3fdWwMZs3c8BwZhFSNpnQ"
+        },
+        {
+          "current_key": "AIzaSyBLEhiFbLcFLf736FhicYgTCyuUSo5i1fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446119608050-caocjhll409umccb8qkhusts56j09per.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446119608050-icmhk171a695penipkn2t016j06k1e3l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fz.frazilegradients"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
